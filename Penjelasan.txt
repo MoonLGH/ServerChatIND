@@ -8,14 +8,16 @@ Tentang config.json
 	//version : versi servernya
 	//token : token bot kamu
 	//prefix : prefix bot kamu 
-	//sc : tempat channel untuk serverchat
+	//sc : tempat channel untuk serverchat (id)
 	//login : password login akun kamu
 	//accountsharingchannel : tempat untuk kamu bisa melakukan -online
 
 cara mendapatkan discord channel id
 1. ketik \#N(NAMA-CHANNEL)
 2.nanti akan muncul seperti <#123456789>
-3.idnya itu yang "123456789"
+3.idnya itu yang "123456789" 
+
+accounts sharing = fitur ini membuat kamu bisa melihat siapa yang online dalam server yang kalian berada 
 
 author: 
 creator : Minecraft Discord Bot Made By:Max.#0069 Discord server:https://discord.gg/xbzF4jJ
