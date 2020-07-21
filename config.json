@@ -1,0 +1,16 @@
+{
+    "username": "",
+    "crack": "",
+    "server": "",
+    "version": "1.15.2",
+    "accountSharingChannel": "",
+    "checkInterval": 5,
+	"botver": "Beta 1.0.0",
+    "autoEnabled": false,
+    "token": "",
+    "prefix": "-", 
+    "guild": "",
+	"joincommand": "epic",
+	"login": "",
+	"sc": "" 
+}
