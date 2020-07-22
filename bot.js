@@ -26,7 +26,17 @@ const bot = mineflayer.createBot({
 	password: password
 });
 
-
+// =========================
+// SET ACTIVITY BOT
+// =========================
+client.on('ready', () => {
+    console.log('BOT IS ONLINE');
+    client.user.setStatus(`busy`)
+    client.user.setActivity(
+      `  ${client.guilds.cache.size} Servers For Help Do  ${prefix}help |`,
+      { type: "WATCHING" }
+    );
+});
 	
 
 // =========================
