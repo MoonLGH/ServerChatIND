@@ -4,11 +4,6 @@ Discord bot untuk mentransfer server chat menuju discord chat
 
 ##### Cara Pakai 
 
-# Yang Dibutuhkan
-
-1 skill code java
-
-2 Akun [Glitch](glitch.com)
 # Cara pertama(tanpa download apapun)
 ```
 1 Siapkan akun Glitch.com
