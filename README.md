@@ -2,7 +2,10 @@
 
 Discord bot untuk mentransfer server chat menuju discord chat
 
+##### Cara Pakai 
+
 # Yang Dibutuhkan
+
 1 skill code java
 
 2 Akun [Glitch](glitch.com)
@@ -39,12 +42,15 @@ Lanjut Ke [Cara glitch](https://github.com/MoonLGH/ServerChatIND/blob/master/Bot
 
 ##Lanjut
 
-```
 1 Buat Folder 
 
-2 Ketik cmd pada <img src="https://cdn.discordapp.com/attachments/709050774499491884/735862032641032212/unknown.png"> lalu ketik "git clone https://github.com/MoonLGH/ServerChatIND.git"
+2 Ketik cmd pada <img src="https://cdn.discordapp.com/attachments/709050774499491884/735862032641032212/unknown.png"> lalu ketik "git clone https://github.com/MoonLGH/ServerChatIND.git" di cmd
 
 2 tetap di cmd tetapi kali ini ketiknya "npm install"
 
 3 Hapus File tidak perlu (opsional) 
-```
+ Seperti readme.md dan bot-tutorial
+4 lanjut ke [CaraNode](https://github.com/MoonLGH/ServerChatIND/blob/master/Bot%20Tutorial/CaraNode)
+5 kalo sudah boleh ketik node bot.js lalu bot akan mulai 
+
+#### Coming soon
