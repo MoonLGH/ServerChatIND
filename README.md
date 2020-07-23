@@ -41,9 +41,10 @@ Lanjut Ke [Cara glitch](https://github.com/MoonLGH/ServerChatIND/blob/master/Bot
 
 ```
 1 Buat Folder 
-``` 
-2 Ketik cmd pada <img src="https://cdn.discordapp.com/attachments/709050774499491884/735861480578220202/unknown.png"> lalu ketik "git clone https://github.com/MoonLGH/ServerChatIND.git"
+
+2 Ketik cmd pada <img src="https://cdn.discordapp.com/attachments/709050774499491884/735862032641032212/unknown.png"> lalu ketik "git clone https://github.com/MoonLGH/ServerChatIND.git"
 
 2 tetap di cmd tetapi kali ini ketiknya "npm install"
 
 3 Hapus File tidak perlu (opsional) 
+```
