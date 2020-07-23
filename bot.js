@@ -30,12 +30,11 @@ const bot = mineflayer.createBot({
 // SET ACTIVITY BOT
 // =========================
 client.on('ready', () => {
-    console.log('BOT IS ONLINE');
-    client.user.setStatus(`busy`)
-    client.user.setActivity(
-      `  ${client.guilds.cache.size} Servers For Help Do  ${prefix}help |`,
-      { type: "WATCHING" }
-    );
+   client.user.setStatus(`online`)
+   client.user.setActivity(
+     `${ip} Servers Chat, | For Help Do  ${prefix}help |`,
+     { type: "WATCHING" }
+   );
 });
 	
 
