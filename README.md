@@ -33,4 +33,4 @@ Discord bot untuk mentransfer server chat menuju discord chat
 ### Untuk Cara ke dua kalian butuh 
 * [Git](https://git-scm.com/)
 * [NodeJS](www.nodejs.org/)
-* editor js seperti [Notepad++](https://notepad-plus-plus.org/downloads/) [Visual Studio](https://visualstudio.microsoft.com/) [intellij](https://www.jetbrains.com/idea/) Dll
+* editor js seperti [Notepad++](https://notepad-plus-plus.org/downloads/), [Visual Studio](https://visualstudio.microsoft.com/) [intellij](https://www.jetbrains.com/idea/), Dll
