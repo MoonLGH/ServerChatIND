@@ -2,7 +2,7 @@
 
 Discord bot untuk mentransfer server chat menuju discord chat
 
-##### Cara Pakai 
+# Cara Pakai 
 
 # Cara pertama(tanpa download apapun)
 ```
@@ -35,7 +35,7 @@ Lanjut Ke [Cara glitch](https://github.com/MoonLGH/ServerChatIND/blob/master/Bot
 * [NodeJS](www.nodejs.org/)
 * editor js seperti [Notepad++](https://notepad-plus-plus.org/downloads/), [Visual Studio](https://visualstudio.microsoft.com/) [intellij](https://www.jetbrains.com/idea/), Dll
 
-##Lanjut
+## Lanjut
 
 1 Buat Folder 
 
