@@ -41,11 +41,13 @@ Lanjut Ke [Cara glitch](https://github.com/MoonLGH/ServerChatIND/blob/master/Bot
 
 2 Ketik cmd pada <img src="https://cdn.discordapp.com/attachments/709050774499491884/735862032641032212/unknown.png"> lalu ketik "git clone https://github.com/MoonLGH/ServerChatIND.git" di cmd
 
-2 tetap di cmd tetapi kali ini ketiknya "npm install"
-
 3 Hapus File tidak perlu (opsional) 
  Seperti readme.md dan bot-tutorial
+ 
 4 lanjut ke [CaraNode](https://github.com/MoonLGH/ServerChatIND/blob/master/Bot%20Tutorial/CaraNode)
-5 kalo sudah boleh ketik node bot.js lalu bot akan mulai 
 
-#### Coming soon
+#Pembuat
+
+* Pembuat : Max.#0069 Discord server:https://discord.gg/xbzF4jJ
+* Modifier : MoonL#6995
+
