@@ -46,7 +46,7 @@ Lanjut Ke [Cara glitch](https://github.com/MoonLGH/ServerChatIND/blob/master/Bot
  
 4 lanjut ke [CaraNode](https://github.com/MoonLGH/ServerChatIND/blob/master/Bot%20Tutorial/CaraNode)
 
-#Pembuat
+# Pembuat
 
 * Pembuat : Max.#0069 Discord server:https://discord.gg/xbzF4jJ
 * Modifier : MoonL#6995
