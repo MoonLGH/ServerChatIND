@@ -34,3 +34,8 @@ lalu tekan terminal ketik "npm install"
 Selesai 
 
 lanjut ke config [menyeting config](https://github.com/MoonLGH/ServerChatIND/blob/master/Bot%20Tutorial/menyeting%20config.md)
+
+
+Setelah selesai kalian bisa nyalain bot kalian dengan cara 
+buka
+https://Nama-Project-Kalian.glitch.me
