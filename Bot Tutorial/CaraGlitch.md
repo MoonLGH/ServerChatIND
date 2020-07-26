@@ -1,4 +1,4 @@
-* Halo di sini hanya untuk yang memilih metode glitch kalau memakai node js atau yang lain di sini [Cara Node](https://github.com/MoonLGH/ServerChatIND/blob/master/Bot%20Tutorial/CaraNode)
+* Halo di sini hanya untuk yang memilih metode glitch kalau memakai node js atau yang lain di sini [Cara Node](https://github.com/MoonLGH/ServerChatIND/blob/master/Bot%20Tutorial/CaraNode.md)
 
 # Setting the bot
 
@@ -17,4 +17,4 @@ Dari Ini
 
 Next buka tools https://cdn.discordapp.com/attachments/709050774499491884/736626061449756672/unknown.png
 lalu tekan terminal ketik "npm install" 
-Selesai lanjut ke config https://github.com/MoonLGH/ServerChatIND/blob/master/Bot%20Tutorial/menyeting%20config/
+Selesai lanjut ke config [menyeting config](https://github.com/MoonLGH/ServerChatIND/blob/master/Bot%20Tutorial/menyeting%20config.md)
