@@ -12,9 +12,13 @@ Jadi Yang Kalian Harus Ubah Di Config adalah
   Untuk Contohnya https://cdn.discordapp.com/attachments/709050774499491884/736629707902156820/unknown.png
   
   Untuk Dapat Id channelnya itu dari 
+  
 1. ketik \#N(NAMA-CHANNEL)
+
 2.nanti akan muncul seperti <#123456789>
+
 3.idnya itu yang "123456789" 
+
 
 Token itu Token discord bot yang dapat dari https://discord.com/developers/applications/
 
