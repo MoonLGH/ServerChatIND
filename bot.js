@@ -94,7 +94,7 @@ client.on('message', msg => {
             }
         }
         setTimeout(() => {
-            const embed = new D.RichEmbed()
+            const embed = D.MessageEmbed()
                 .setDescription(`**Online Accounts**`)
                 .addField(`**Account:**`, `${player.join("\n")}`, true)
                 .addField(`**Status:**`, `${status.join("\n")}`, true)
@@ -106,7 +106,7 @@ client.on('message', msg => {
         }, 750);
 
     } else if (command == "help") {
-        const help = new D.RichEmbed()
+        const help = new D.MessageEmbed()
             .setTitle(`Bantuan`)
 			.setColor(color)
 			.addField(`${prefix}help `, 'Menunjukan Pesan ini')
@@ -117,7 +117,7 @@ client.on('message', msg => {
         msg.channel.send(help)
 		
 	} else if (command == "help_pergerakan") {
-        const Phelp = new D.RichEmbed()
+        const Phelp = new D.MessageEmbed()
             .setTitle(`Bantuan`)
 			.setColor(color)
 			.addField(`${prefix}maju `, 'Menyuruh Bot Untuk Maju')
@@ -131,14 +131,14 @@ client.on('message', msg => {
         let toSend = args.join(" ")
         if (!toSend) return msg.reply("Specify a message to sudo")
         bot.chat(toSend)
-        const success = new D.RichEmbed()
+        const success = new D.MessageEmbed()
             .setDescription(`:white_check_mark: ${msg.author.tag} sent \`${toSend}\``)
             .setColor(color)
         msg.channel.send(success)
 	}else if (command  == "login") {
         let LoginCommand = (`${login}`)
         bot.chat(LoginCommand)
-        const LoginSucsess = new D.RichEmbed()
+        const LoginSucsess = new D.MessageEmbed()
             .setDescription(`:white_check_mark: ${msg.author.tag} menyuruh bot untuk \`Login\``)
             .setColor(color)
         msg.channel.send(LoginSucsess)
@@ -147,31 +147,31 @@ client.on('message', msg => {
 	// -------------
     }else if (command  == "maju") {
         bot.setControlState('forward', true)
-        const PMaju = new D.RichEmbed()
+        const PMaju = new D.MessageEmbed()
             .setDescription(`:white_check_mark: Aku sedang Bergerak Maju. Untuk Menghentikan Ketik -berhenti`)
             .setColor(color)
         msg.channel.send(PMaju)
 	}else if (command  == "mundur") {
         bot.setControlState('back', true)
-        const PMundur = new D.RichEmbed()
+        const PMundur = new D.MessageEmbed()
             .setDescription(`:white_check_mark: Aku sedang Bergerak Mundur. Untuk Menghentikan Ketik -berhenti`)
             .setColor(color)
         msg.channel.send(PMundur)
     }else if (command  == "berhenti") {
         bot.clearControlStates()
-        const PStop = new D.RichEmbed()
+        const PStop = new D.MessageEmbed()
             .setDescription(`:white_check_mark: Berhenti!`)
             .setColor(color)
         msg.channel.send(PStop)
 	}else if (command  == "kiri") {
         bot.setControlState('left', true)
-        const PKiri = new D.RichEmbed()
+        const PKiri = new D.MessageEmbed()
             .setDescription(`:white_check_mark: Aku sedang Bergerak Ke Kiri. Untuk Menghentikan Ketik -berhenti`)
             .setColor(color)
         msg.channel.send(PKiri)
 	}else if (command  == "kanan") {
         bot.setControlState('right', true)
-        const PKanan = new D.RichEmbed()
+        const PKanan = new D.MessageEmbed()
             .setDescription(`:white_check_mark: Aku sedang Bergerak Ke Kanan. Untuk Menghentikan Ketik -berhenti`)
             .setColor(color)
         msg.channel.send(PKanan)
