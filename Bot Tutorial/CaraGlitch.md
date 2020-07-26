@@ -6,16 +6,17 @@ Setelah kalian mengcopy dari github saya kalian harus menyeting botnya
 
 Pertama tambahkan "start": "node bot.js" di package.json jadi 
 
-``
-Dari Ini
 
+Dari Ini
+```
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
 },
+
 ```
 
 
-```
+
 Jadi Seperti
 ```
 "scripts": {
