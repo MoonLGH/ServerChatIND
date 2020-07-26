@@ -2,7 +2,7 @@ Jadi Yang Kalian Harus Ubah Di Config adalah
 	//Username : Nama Dalam Game atau email
 	//Password : Password akunnya (kalo crack ganti "Password" dengan "crack")
 	//Server : Ip servernya
-	//version : versi servernya
+	//version : versi server minecraftnya
 	//token : token bot kamu
 	//prefix : prefix bot kamu 
 	//sc : tempat channel untuk serverchat (id)
