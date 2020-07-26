@@ -30,4 +30,7 @@ Next buka tools <img src= "https://cdn.discordapp.com/attachments/70905077449949
 
 
 lalu tekan terminal ketik "npm install" 
-Selesai lanjut ke config [menyeting config](https://github.com/MoonLGH/ServerChatIND/blob/master/Bot%20Tutorial/menyeting%20config.md)
+
+Selesai 
+
+lanjut ke config [menyeting config](https://github.com/MoonLGH/ServerChatIND/blob/master/Bot%20Tutorial/menyeting%20config.md)
