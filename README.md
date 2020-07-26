@@ -44,7 +44,7 @@ Lanjut Ke [Cara glitch](https://github.com/MoonLGH/ServerChatIND/blob/master/Bot
 3 Hapus File tidak perlu (opsional) 
  Seperti readme.md dan bot-tutorial
  
-4 lanjut ke [CaraNode](https://github.com/MoonLGH/ServerChatIND/blob/master/Bot%20Tutorial/CaraNode)
+4 lanjut ke [CaraNode](https://github.com/MoonLGH/ServerChatIND/blob/master/Bot%20Tutorial/CaraNode.md)
 
 # Pembuat
 
