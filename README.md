@@ -51,3 +51,8 @@ Lanjut Ke [Cara glitch](https://github.com/MoonLGH/ServerChatIND/blob/master/Bot
 * Pembuat : Max.#0069 Discord server:https://discord.gg/xbzF4jJ
 * Modifier : MoonL#6995
 
+# END 
+
+Sekian terimakasih 
+
+(PROJECT DISCONTINUED 26/07/2020 14:37)
