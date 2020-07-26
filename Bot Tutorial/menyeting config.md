@@ -40,3 +40,5 @@ Token itu Token discord bot yang dapat dari https://discord.com/developers/appli
 
 accounts sharing = fitur ini membuat kamu bisa melihat siapa teman kalian yang online (Nickname yang sudah di tulis di account.txt) 
 
+* Untuk Cara Memakai Akun Ada Di [Setting akun](https://github.com/MoonLGH/ServerChatIND/blob/master/Bot%20Tutorial/Akun%20Setting.md)
+
