@@ -5,15 +5,24 @@
 Setelah kalian mengcopy dari github saya kalian harus menyeting botnya
 
 Pertama tambahkan "start": "node bot.js" di package.json jadi 
+
+``
 Dari Ini
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  Menjadi
-  "scripts": {
+},
+```
+
+
+```
+Jadi Seperti
+```
+"scripts": {
     "start": "node bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+```
 
 Next buka tools https://cdn.discordapp.com/attachments/709050774499491884/736626061449756672/unknown.png
 lalu tekan terminal ketik "npm install" 
