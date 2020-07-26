@@ -23,7 +23,7 @@ Discord bot untuk mentransfer server chat menuju discord chat
 ```
 6 Selesai 
 ```
-Lanjut Ke [Cara glitch](https://github.com/MoonLGH/ServerChatIND/blob/master/Bot%20Tutorial/CaraGlitch)
+Lanjut Ke [Cara glitch](https://github.com/MoonLGH/ServerChatIND/blob/master/Bot%20Tutorial/CaraGlitch.md)
 
 
 # Cara Kedua
