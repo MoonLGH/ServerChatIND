@@ -8,6 +8,7 @@ Pertama tambahkan "start": "node bot.js" di package.json jadi
 
 
 Dari Ini
+
 ```
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,6 +26,6 @@ Jadi Seperti
   },
 ```
 
-Next buka tools https://cdn.discordapp.com/attachments/709050774499491884/736626061449756672/unknown.png
+Next buka tools <img src= "https://cdn.discordapp.com/attachments/709050774499491884/736626061449756672/unknown.png">
 lalu tekan terminal ketik "npm install" 
 Selesai lanjut ke config [menyeting config](https://github.com/MoonLGH/ServerChatIND/blob/master/Bot%20Tutorial/menyeting%20config.md)
