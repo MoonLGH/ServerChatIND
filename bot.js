@@ -198,7 +198,7 @@ setInterval(() => {
             }
         }
         setTimeout(() => {
-            const embed = new D.RichEmbed()
+            const embed = new D.MessageEmbed()
                 .setDescription(`**Online Accounts**`)
                 .addField(`**Account:**`, `${player.join("\n")}`, true)
                 .addField(`**Status:**`, `${status.join("\n")}`, true)
